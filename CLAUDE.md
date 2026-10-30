@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is an email studio for a small business. We use it to plan email campaigns and write the emails for them. The sample business is Kettlebird Tea.
 
+@brand/voice.md
+
 ## Folders
 
 - `brand/`: the brand's voice and style: how we sound, words we use and avoid, and claims we must never make.
