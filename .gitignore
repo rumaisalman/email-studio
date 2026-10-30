@@ -1,0 +1,7 @@
+# Personal Claude Code settings (my own email, local overrides)
+.claude/settings.local.json
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
