@@ -6,7 +6,7 @@ This folder keeps its course name, `steep-club-launch`, but the campaign is now 
 
 - **Name:** Own It in Denim
 - **Summary:** Four emails over four weeks that bring our waitlist from "I'm curious" to "I carry a LumiTote".
-- **Main goal:** 300 waitlist members buy a denim tote in the first month (15% of about 2,000 people).
+- **Main goal:** 300 waitlist members buy a denim tote by Sunday 3 January 2027 (15% of about 2,000 people).
 - **Other goals:**
   - Keep the list healthy: unsubscribes under 0.5% per email.
   - Learn which group buys most, so we know who to write to next.
@@ -18,7 +18,7 @@ About 2,000 people who joined the LumiTote waitlist. All are 16 or older. They a
 | Group | Who they are | What they want | Main worry |
 |---|---|---|---|
 | **New to LumiTote** (`new-to-lumitote`) | Joined because a friend or a post caught their eye. Haven't bought a bag from us. | A bag that looks good and makes a statement. | "Will it really suit my style?" |
-| **Gift buyers** (`gift-buyers`) | Buying for a daughter, sister, friend or colleague. December is gift season. | A gift that feels personal and stylish. | "Will she like it? Will it arrive in time?" |
+| **Gift buyers** (`gift-buyers`) | Buying for a daughter, sister, friend or colleague. December is gift season. | A gift that feels personal and stylish. | "Will she like it?" |
 | **Everyday carriers** (`everyday-carriers`) | University students and working women who carry a bag every day. | A bag that carries their day: laptop, books, lunch. | "Is it big and strong enough for my day?" |
 
 **Buying stage:** all three groups know us and are near a decision. The campaign moves them from interest to purchase.
@@ -31,7 +31,7 @@ About 2,000 people who joined the LumiTote waitlist. All are 16 or older. They a
 |---|---|---|
 | Made to be noticed. Our first denim totes are a statement bag. | New to LumiTote | Product photos on the denim page. |
 | Carry your everyday: class, work, coffee, all of it. | Everyday carriers | Real sizes and what fits inside, once the owner confirms them. |
-| A gift with style. Give her a bag she'll own. | Gift buyers | Gift-ready photos; delivery dates once the owner confirms them. |
+| A gift with style. Give her a bag she'll own. | Gift buyers | Gift-ready photos. |
 | Waitlist first. You get the first look before anyone else. | Everyone | They joined the waitlist; the launch goes to them first. |
 
 **Rules for every message** (from `brand/voice.md`):
@@ -48,7 +48,7 @@ Budget is small, so this is **email only**. No paid ads.
 
 | Channel | Why it fits | Format | Effort | Budget |
 |---|---|---|---|---|
-| Email to the waitlist | They asked to hear from us. Email costs little and turns warm interest into sales. | 4 plain, short emails. One button each, to the denim totes page. | Low to medium | Our time only, plus the email service we already have. |
+| Email to the waitlist | They asked to hear from us. Email costs little and turns warm interest into orders. | 4 plain, short emails. One button each, to the denim totes page. | Low to medium | Our time only, plus the email service we already have. |
 | Denim totes page (`lumitote.example/denim`) | Every email links here. This is where people buy. | One product page. | Medium (must be ready before email 1) | Our time only. |
 
 ## 5. Content calendar
@@ -59,9 +59,9 @@ The campaign starts on the first Monday of next month: **Monday 7 December 2026*
 |---|---|---|---|---|---|
 | 0 | by Fri 4 Dec | Denim page live and tested | Every email links here. | Must be done before email 1. | To do |
 | 1 | Mon 7 Dec | 01 · The launch | "Our denim totes are here. You see them first." | Sent to all groups. | To do |
-| 2 | Mon 14 Dec | 02 · Up close | Show the bag: the denim, the size, what fits inside. | Only use facts the owner confirms. | To do |
-| 3 | Mon 21 Dec | 03 · Made for you | One email, a version for each group: style, gifts, everyday carry. | Written per group with `/personalize`. Gift buyers need delivery dates confirmed. | To do |
-| 4 | Mon 28 Dec | 04 · Your questions | Short answers to common questions, then one last confident invite. | Skip people who already bought. | To do |
+| 2 | Mon 14 Dec | 02 · Up close | Show the bag: the denim, the size, what fits inside. | Sent to all groups. Only use facts the owner confirms. | To do |
+| 3 | Mon 21 Dec | 03 · Made for you | One email, a version for each group: style, gifts, everyday carry. | Written per group with `/personalize`. | To do |
+| 4 | Mon 28 Dec | 04 · Your questions | Short answers to common questions, then one last confident invite. | Sent to all groups, minus people who already bought. | To do |
 
 Between emails: check results every Thursday and adjust the next email.
 
@@ -74,7 +74,7 @@ Between emails: check results every Thursday and adjust the next email.
 | Email 02 · Up close | The details of the bag. | Must have | Wed 9 Dec |
 | Email 03 · Made for you (3 versions) | One version per group. | Must have | Wed 16 Dec |
 | Email 04 · Your questions | Answers and a final invite. | Must have | Wed 23 Dec |
-| Confirmed product facts | Size, material, care, delivery dates. Comes from the owner. | Must have | Mon 30 Nov |
+| Confirmed product facts | Size, material and care. Comes from the owner. | Must have | Mon 30 Nov |
 | Product photos | Bag on its own and being carried. | Nice to have | Mon 30 Nov |
 
 ## 7. How we measure success
@@ -96,13 +96,12 @@ Between emails: check results every Thursday and adjust the next email.
 - **Ads:** none.
 - **Production:** our own time for writing, the denim page and photos.
 - **Sending:** the email service we already use.
-- **Spare:** keep about 10% of our time free to fix or resend if something goes wrong.
+- **Spare:** keep about 10% of our time open to fix or resend if something goes wrong.
 
 ## 9. Risks and how we handle them
 
 | Risk | What we do |
 |---|---|
-| Gift orders arrive after the holidays. | Get delivery dates from the owner before email 3. Only promise dates the owner confirms. |
 | We slip into bargain talk to hit 300. | Check every email against `brand/voice.md`. No money off, no free extras. Sell the bag, not the price. |
 | We claim product facts we can't back up. | Use only facts the owner has confirmed. Leave out anything unsure. |
 | Too many emails cause unsubscribes. | Only four emails, one a week. Stop emailing people who already bought. |
@@ -110,7 +109,7 @@ Between emails: check results every Thursday and adjust the next email.
 
 ## 10. Next steps
 
-1. Owner confirms product facts: size, material, care and delivery dates.
+1. Owner confirms product facts: size, material and care.
 2. Build and test the denim totes page.
 3. Write emails 01 to 04 using this plan and `brand/voice.md`.
 4. Write one version of email 03 per group with `/personalize`.

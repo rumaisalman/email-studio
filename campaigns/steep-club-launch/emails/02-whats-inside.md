@@ -1,22 +1,22 @@
-Subject: A peek inside your first box
-Preview: Fresh leaves to steep, plus simple brew notes in every box.
+Subject: Up close with the denim tote
+Preview: The denim, the shape, the details. See what makes it a statement.
 
 Hi {{first_name}},
 
-We've been packing our very first Steep Club box, and we couldn't wait to show you what's inside.
+Last week you saw our denim totes. This week, take a closer look.
 
-**A new mix of fresh leaves.** Each month brings a few different teas to brew. Some might become old favourites. Some might surprise you.
+**The denim.** Bold, classic and impossible to ignore. Denim never goes out of style.
 
-**Simple brew notes.** Every box has a card that tells you how much tea to use, how hot the water should be, and how long to steep. No guesswork, and no wrong answers.
+**The shape.** Clean lines and a confident shape. It looks as good on your shoulder as it does in your hand.
 
-**A little bit of cosy.** It's a small treat that turns up at your door, ready for a quiet cup whenever you want one.
+**The details.** Nothing extra. Nothing missing. Just a bag that knows what it's doing.
 
-Want to see the whole box?
+Sizes and what fits inside are all on the denim page. Take a look and picture your day in it.
 
-[Come and see the box](https://kettlebird.example/steep-club)
+[Get up close](https://lumitote.example/denim)
 
-Happy steeping,
-The Kettlebird team
+Carry it bold,
+The LumiTote team
 
-You're getting this because you joined the Kettlebird Tea waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the LumiTote waitlist.
+LumiTote, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

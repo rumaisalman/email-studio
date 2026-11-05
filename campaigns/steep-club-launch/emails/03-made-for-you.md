@@ -1,22 +1,22 @@
-Subject: Made for you, however you take your tea
-Preview: New to loose-leaf tea, gifting, or a daily brewer? There's a place for you.
+Subject: A denim tote made for you
+Preview: For your style, for a gift, for your everyday. There's one that's yours.
 
 Hi {{first_name}},
 
-Tea friends come in all kinds. However you like your cup, The Steep Club was made with you in mind.
+Every woman carries her day her own way. Our denim tote was made for all of them.
 
-**New to loose-leaf tea?** There's no wrong way to start. Each box comes with simple brew notes, so you can relax and enjoy the cup.
+**New to LumiTote?** This is the bag that gets noticed. Wear it once and it becomes part of your style.
 
-**Looking for a gift?** The Steep Club is a present that keeps arriving, month after month. It's a lovely way to say "thinking of you" to your favourite tea friend.
+**Buying a gift?** Give her a bag she'll own. A denim tote says "I know your style" without a single word.
 
-**Drink tea every day?** You'll get fresh leaves on a regular schedule, plus new teas to try alongside the ones you already love.
+**Carry a bag every day?** Uni, the office, the gym, the coffee run. This is the everyday bag that keeps up.
 
-And whoever you are, you're in charge. Skip or cancel whenever you like.
+Whoever you are, own it.
 
-[Come and have a look](https://kettlebird.example/steep-club)
+[Find your denim tote](https://lumitote.example/denim)
 
-Happy steeping,
-The Kettlebird team
+Carry it bold,
+The LumiTote team
 
-You're getting this because you joined the Kettlebird Tea waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the LumiTote waitlist.
+LumiTote, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
