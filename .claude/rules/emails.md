@@ -16,13 +16,17 @@ Every email file must follow these rules, in this order.
 
 - Greet the reader by name with `{{first_name}}`. For example: "Hi {{first_name}},"
 
-## 3. One main link
+## 3. Plain text body
+
+- Write the body as plain text. No bold, italics, headings or lists. The button link is the only Markdown.
+
+## 4. One main link
 
 - Each email has exactly one link. No other links anywhere in the email.
 - Write it as a button link to the denim totes page, like this: `[Button text](https://lumitote.example/denim)`
 - Change "Button text" to a confident invite, such as "See the denim totes".
 
-## 4. Sign-off and footer
+## 5. Sign-off and footer
 
 - End the email with our sign-off from `brand/voice.md`, on two lines:
 

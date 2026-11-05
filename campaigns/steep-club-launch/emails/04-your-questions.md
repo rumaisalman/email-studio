@@ -5,16 +5,16 @@ Hi {{first_name}},
 
 You've seen the bag. Here are straight answers to the questions we hear most.
 
-**How big is it?**
-Every size and what fits inside is on the denim page, so you know exactly what you're carrying.
+How big is it?
+The size and what fits inside are on the denim page, so you know exactly what you're carrying.
 
-**Will it suit my style?**
-Yes. Denim goes with everything. Wear it with jeans, a dress or your work look and own it.
+Will it suit my style?
+Yes. Denim works with jeans, a dress or your work look. Wear it and own it.
 
-**Can I give it as a gift?**
-Yes. A denim tote is a gift with style. She'll carry it every day.
+Can I give it as a gift?
+Yes. It's a gift with style, made to be carried every day.
 
-Got another question? Reply to this email. We read every one.
+Got another question? Reply to this email and we'll get back to you.
 
 Your denim tote is waiting.
 

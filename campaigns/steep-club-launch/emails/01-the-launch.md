@@ -5,11 +5,11 @@ Hi {{first_name}},
 
 The wait is over. Our first denim totes are here, and you see them before anyone else.
 
-**This is a statement bag.** Bold denim, clean lines, made to be noticed.
+This is a statement bag. Bold denim, clean lines, made to be noticed.
 
-**It carries your everyday.** Class, work, coffee, all of it. One bag, your whole day.
+It carries your everyday. Class, work, coffee. Wherever your day goes, it goes too.
 
-**It's your style.** Wear it with jeans, a dress or your work look. It fits in and still stands out.
+It's your style. Wear it with jeans, a dress or your work look. It fits in and still stands out.
 
 You asked to be first. Here it is.
 

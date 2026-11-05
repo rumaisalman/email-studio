@@ -32,7 +32,8 @@ Instead, talk about the bag itself and how it feels to carry it. For example, "M
 
 - **No discounts.** Never offer or mention a discount, a sale price, money off, a percentage off or a promo code.
 - **No freebies.** Never offer or mention anything free: no free gifts, free delivery, giveaways or "buy one get one".
-- **No made-up product facts.** Don't say a bag is waterproof, eco-friendly or lasts a lifetime unless the owner has confirmed it.
+- **No made-up product facts.** Don't say a bag is waterproof, eco-friendly or lasts a lifetime unless the owner has confirmed it. The same goes for its size, how many sizes there are, what fits inside and how strong it is. Point to the denim page instead.
+- **No guesses about the reader.** Don't assume the reader is a woman, opened an earlier email, or who a gift is for. Use "you" and "they", not "she" or "her".
 
 ## 5. How we sign off
 
