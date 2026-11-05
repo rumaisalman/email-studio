@@ -17,11 +17,9 @@ About 2,000 people who joined the LumiTote waitlist. All are 16 or older. They a
 
 | Group | Who they are | What they want | Main worry |
 |---|---|---|---|
-| **New to LumiTote** (`tea-curious` in `leads.csv`) | Joined because a friend or a post caught their eye. Haven't bought a bag from us. | A bag that looks good and makes a statement. | "Will it really suit my style?" |
+| **New to LumiTote** (`new-to-lumitote`) | Joined because a friend or a post caught their eye. Haven't bought a bag from us. | A bag that looks good and makes a statement. | "Will it really suit my style?" |
 | **Gift buyers** (`gift-buyers`) | Buying for a daughter, sister, friend or colleague. December is gift season. | A gift that feels personal and stylish. | "Will she like it? Will it arrive in time?" |
-| **Everyday carriers** (`daily-drinkers`) | University students and working women who carry a bag every day. | A bag that carries their day: laptop, books, lunch. | "Is it big and strong enough for my day?" |
-
-Note: the group names in `leads/leads.csv` still use the old tea names. The table above shows how they match. We can rename them later, if you want.
+| **Everyday carriers** (`everyday-carriers`) | University students and working women who carry a bag every day. | A bag that carries their day: laptop, books, lunch. | "Is it big and strong enough for my day?" |
 
 **Buying stage:** all three groups know us and are near a decision. The campaign moves them from interest to purchase.
 
