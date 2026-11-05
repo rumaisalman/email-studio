@@ -23,8 +23,13 @@ We never sound pushy. Avoid words and phrases that rush or pressure the reader, 
 - hurry
 - buy now
 - limited time
+- easy (what is easy differs from person to person; say "simple" instead)
 
 Instead, invite the reader gently. For example, "Come and have a look" instead of "Buy now".
+
+## Spelling we keep the same
+
+- Write "loose-leaf tea", with a hyphen, everywhere.
 
 ## 4. Claims we must never make
 
