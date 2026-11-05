@@ -37,7 +37,7 @@ my-email-studio/
 ├── leads/
 │   ├── leads.csv        24 practice customers
 │   └── CLAUDE.md        rules for this folder only
-├── campaigns/steep-club-launch/
+├── campaigns/new-product-launch/
 │   ├── plan.md          the campaign plan
 │   ├── emails/          4 launch emails
 │   └── groups/          a version per customer group
@@ -243,13 +243,13 @@ Audience: about 2,000 people who joined our waitlist, in three groups: tea-curio
 Timeline: 4 weeks, starting the first Monday of next month.
 Budget: small. Email only, no paid ads.
 
-Save the finished plan to campaigns/steep-club-launch/plan.md, then commit it.
+Save the finished plan to campaigns/new-product-launch/plan.md, then commit it.
 ```
 
 **Check** — new session, then paste:
 
 ```text
-Check the campaign plan in campaigns/steep-club-launch/plan.md. Don't change any files. Test it, don't just read it:
+Check the campaign plan in campaigns/new-product-launch/plan.md. Don't change any files. Test it, don't just read it:
 
 1. Is there one goal with a number and a deadline?
 2. Does every email in the calendar have a send date, an audience group and a purpose?
@@ -351,15 +351,15 @@ Commit when you're done.
 ```text
 /marketing:email-sequence Product launch sequence for The Steep Club, sent to everyone on our waitlist.
 
-Use campaigns/steep-club-launch/plan.md for the goal, timing and key messages, and brand/voice.md for our voice. Write 4 emails.
+Use campaigns/new-product-launch/plan.md for the goal, timing and key messages, and brand/voice.md for our voice. Write 4 emails.
 
-Save each email as its own file in campaigns/steep-club-launch/emails/, named 01-short-name.md, 02-short-name.md, and so on. Then commit.
+Save each email as its own file in campaigns/new-product-launch/emails/, named 01-short-name.md, 02-short-name.md, and so on. Then commit.
 ```
 
 **Check** — new session, then paste:
 
 ```text
-Test the emails in campaigns/steep-club-launch/emails/. Don't change any files. Measure, don't eyeball: count characters and links with a command where you can.
+Test the emails in campaigns/new-product-launch/emails/. Don't change any files. Measure, don't eyeball: count characters and links with a command where you can.
 
 For each email file, check:
 1. The Subject line is 50 characters or fewer, and the Preview line is 90 or fewer. Give the real counts.
@@ -390,7 +390,7 @@ Review in a new session, fix related problems in one message, then confirm with 
 **Build 1 of 2** — new session, then paste:
 
 ```text
-/marketing:brand-review campaigns/steep-club-launch/emails/
+/marketing:brand-review campaigns/new-product-launch/emails/
 
 Review all four emails against brand/voice.md and .claude/rules/emails.md. List every problem by severity (high, medium or low), with the file, the line and a suggested fix. Don't change any files yet.
 ```
@@ -453,7 +453,7 @@ If no campaign folder is given, it should stop and list the campaign folders tha
 **Build 2 of 2** — paste in the new session:
 
 ```text
-/personalize campaigns/steep-club-launch
+/personalize campaigns/new-product-launch
 ```
 
 **Then:** ask Claude: *"Commit the new files with a clear message."*
@@ -463,7 +463,7 @@ If no campaign folder is given, it should stop and list the campaign folders tha
 ```text
 Test my personalize skill and what it made. Don't change any files.
 
-1. Count the email files under campaigns/steep-club-launch/groups/. There should be one per email per group: 4 emails times 3 groups is 12.
+1. Count the email files under campaigns/new-product-launch/groups/. There should be one per email per group: 4 emails times 3 groups is 12.
 2. Compare the original email 01 with each group's version using diff. Only the opening line and one example should differ. Tell me if anything else changed.
 3. Check that every version still follows .claude/rules/emails.md: subject 50 characters or fewer, preview 90 or fewer, one link, and the footer as plain text. Measure, don't eyeball.
 4. Does any version use a word or claim that brand/voice.md forbids? Quote it if so.
@@ -584,7 +584,7 @@ Add a safety guard so Claude can never send email to the wrong people, even by m
 ```text
 Test the send guard for real. Don't change any files.
 
-1. Use the resend send-email tool to send email 01 from campaigns/steep-club-launch/emails/ to Ayesha, the first person in leads/leads.csv, at her address. This should be blocked. Quote the block message word for word.
+1. Use the resend send-email tool to send email 01 from campaigns/new-product-launch/emails/ to Ayesha, the first person in leads/leads.csv, at her address. This should be blocked. Quote the block message word for word.
 2. Send the same email to delivered@resend.dev. This should go through.
 3. Send it to my own email, the MY_EMAIL value in .claude/settings.local.json. This should go through too.
 4. Run git check-ignore -v .claude/settings.local.json to prove my email address is not committed.
@@ -612,7 +612,7 @@ Send each group its first email, safely, and check that it was delivered.
 ```text
 Let's do a practice launch.
 
-For each lead group, send that group's version of email 01 (from campaigns/steep-club-launch/groups/<group>/emails/) to delivered@resend.dev. Start each subject with the group name in square brackets, like [gift-buyers]. Replace {{first_name}} with "there", and leave the other placeholders as they are.
+For each lead group, send that group's version of email 01 (from campaigns/new-product-launch/groups/<group>/emails/) to delivered@resend.dev. Start each subject with the group name in square brackets, like [gift-buyers]. Replace {{first_name}} with "there", and leave the other placeholders as they are.
 
 Then list the emails you sent and show me a table: group, subject, status.
 ```
@@ -662,7 +662,7 @@ Pick up earlier work by name, and try two ideas from the same starting point.
 **Build A** — paste, then `/exit`:
 
 ```text
-Read campaigns/steep-club-launch/plan.md and each group's version of email 01. In five short bullets, tell me what each lead group cares about most. Don't write any files.
+Read campaigns/new-product-launch/plan.md and each group's version of email 01. In five short bullets, tell me what each lead group cares about most. Don't write any files.
 ```
 
 **Part B · Come back later:** `claude --resume launch-angles`
@@ -733,7 +733,7 @@ Make a review that runs without anyone typing, so it can later run on every pull
    claude -p "Review every email in <folder> against brand/voice.md and .claude/rules/emails.md. Report only real problems." --output-format json --json-schema "<the schema file's text>" --allowedTools "Read,Glob,Grep"
    The output may be one JSON object, or a list whose last item is the result, so handle both. Take structured_output, save it to review/findings.json, print a one-line summary, and exit with code 1 if any finding is high severity.
 3. To prove it catches problems, write a deliberately bad email at campaigns/test-bad/emails/01-bad.md. It should break our rules with a detox claim, a "last chance" line and two links. Then run: node scripts/review.mjs campaigns/test-bad
-4. Run it on campaigns/steep-club-launch too, then commit everything.
+4. Run it on campaigns/new-product-launch too, then commit everything.
 
 Tell me what each run found and what exit code it gave.
 ```
@@ -759,7 +759,7 @@ Test my automatic review. The script rewrites review/findings.json; don't change
 
 1. Run node scripts/review.mjs campaigns/test-bad. Did it exit with code 1? Does every finding in review/findings.json have all five fields from review/findings.schema.json, with severity high, medium or low?
 2. Did it catch the second link? Quote that finding.
-3. Run node scripts/review.mjs campaigns/steep-club-launch. Did it exit with code 0?
+3. Run node scripts/review.mjs campaigns/new-product-launch. Did it exit with code 0?
 4. Read scripts/review.mjs. Does it handle both output shapes (one object, or a list), and what does it do if claude fails?
 
 Give me a short table: Test | Pass or Fail | What you saw.

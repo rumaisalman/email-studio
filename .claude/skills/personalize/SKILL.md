@@ -53,7 +53,7 @@ Brand rules to follow in every version:
 ## 4. Save the files
 
 - Save each version to `<campaign folder>/groups/<group>/emails/<same file name>`.
-- For example: `campaigns/steep-club-launch/groups/gift-buyers/emails/01-the-launch.md`.
+- For example: `campaigns/new-product-launch/groups/gift-buyers/emails/01-the-launch.md`.
 - If a file already exists there, overwrite it with the new version.
 
 ## 5. Reply with a short summary only

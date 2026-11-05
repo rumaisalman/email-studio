@@ -3,13 +3,13 @@ Preview: Size, style and gifting. Short answers, then it's your move.
 
 Hi {{first_name}},
 
-You've seen the bag. Here are straight answers to the questions we hear most.
+Thinking of giving a denim tote? Here are straight answers to the questions we hear most.
 
 How big is it?
 The size and what fits inside are on the denim page, so you know exactly what you're carrying.
 
 Will it suit my style?
-Yes. Denim works with jeans, a dress or your work look. Wear it and own it.
+Yes. Denim works with jeans, a dress or a work look. It suits you, and it suits the person you give it to.
 
 Can I give it as a gift?
 Yes. It's a gift with style, made to be carried every day.

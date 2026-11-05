@@ -1,6 +1,6 @@
 # Campaign plan: LumiTote denim tote launch
 
-This folder keeps its course name, `steep-club-launch`, but the campaign is now the LumiTote denim tote launch.
+This is the LumiTote denim tote launch campaign.
 
 ## 1. Campaign overview
 
