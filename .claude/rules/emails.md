@@ -19,20 +19,20 @@ Every email file must follow these rules, in this order.
 ## 3. One main link
 
 - Each email has exactly one link. No other links anywhere in the email.
-- Write it as a button link to the Steep Club page, like this: `[Button text](https://kettlebird.example/steep-club)`
-- Change "Button text" to a gentle invite, such as "Come and have a look".
+- Write it as a button link to the denim totes page, like this: `[Button text](https://lumitote.example/denim)`
+- Change "Button text" to a confident invite, such as "See the denim totes".
 
 ## 4. Sign-off and footer
 
 - End the email with our sign-off from `brand/voice.md`, on two lines:
 
-  Happy steeping,
-  The Kettlebird team
+  Carry it bold,
+  The LumiTote team
 
 - After the sign-off, add this two-line footer, word for word:
 
-  You're getting this because you joined the Kettlebird Tea waitlist.
-  Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+  You're getting this because you joined the LumiTote waitlist.
+  LumiTote, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 
 - Write the footer as plain text. Don't put it inside a code block or backticks.
 - Nothing comes after the footer.

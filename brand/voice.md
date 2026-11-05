@@ -1,45 +1,42 @@
-# Kettlebird Tea brand voice
+# LumiTote brand voice
 
-Kettlebird Tea is a small online tea shop. We are launching The Steep Club, a monthly tea subscription box, for people who joined our waitlist. We write like a friend who loves tea and is glad to hear from you.
+LumiTote is a small online shop that makes tote bags. We are launching our first denim tote bags for people who joined our waitlist. The bags are for girls and women aged 12 and up, especially women at university or at work. We only email people aged 16 or older. We write like a stylish friend who knows exactly what works and says it with confidence.
 
 ## 1. Our voice in three words
 
-- **Friendly:** we talk to readers like friends, not customers. Short sentences, everyday words.
-- **Warm:** we sound kind and relaxed, like a chat over a cup of tea.
-- **Welcoming:** everyone is invited in. We never make readers feel rushed or left out.
+- **Confident:** we say what we mean in short, sure sentences. No "maybe", no "we hope you like it".
+- **Bold:** we make statements. Our bags stand out, and so does the way we talk about them.
+- **Stylish:** we write like someone with great taste. Carrying a LumiTote is a style choice, and the reader should feel that.
 
 ## 2. Words we use
 
-- steep
-- cosy
-- brew
-- fresh leaves
-- tea friends
+- denim
+- carry
+- everyday
+- statement
+- own it
+- your style
 
 ## 3. Words we avoid
 
-We never sound pushy. Avoid words and phrases that rush or pressure the reader, such as:
+We sound bold, never cheap or desperate. Avoid words and phrases that make the bag sound like a bargain, such as:
 
-- hurry
-- buy now
-- limited time
-- easy (what is easy differs from person to person; say "simple" instead)
+- discount
+- sale
+- deal
+- cheap
 
-Instead, invite the reader gently. For example, "Come and have a look" instead of "Buy now".
-
-## Spelling we keep the same
-
-- Write "loose-leaf tea", with a hyphen, everywhere.
+Instead, talk about the bag itself and how it feels to carry it. For example, "Made to be noticed" instead of "Great deal".
 
 ## 4. Claims we must never make
 
-- **No health benefits.** Don't say a tea is good for your health, boosts energy, helps you sleep, or anything like it.
-- **No cures.** Don't say a tea cures, treats or prevents any illness.
-- **Never say "caffeine-free".** Don't claim any tea has no caffeine.
+- **No discounts.** Never offer or mention a discount, a sale price, money off, a percentage off or a promo code.
+- **No freebies.** Never offer or mention anything free: no free gifts, free delivery, giveaways or "buy one get one".
+- **No made-up product facts.** Don't say a bag is waterproof, eco-friendly or lasts a lifetime unless the owner has confirmed it.
 
 ## 5. How we sign off
 
 End every email with:
 
-> Happy steeping,
-> The Kettlebird team
+> Carry it bold,
+> The LumiTote team

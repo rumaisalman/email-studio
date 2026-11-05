@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this studio is for
 
-This is an email studio for a small business. We use it to plan email campaigns and write the emails for them. The sample business is Kettlebird Tea.
+This is an email studio for a small business. We use it to plan email campaigns and write the emails for them. The sample business is LumiTote, a tote bag shop launching denim tote bags.
 
 @brand/voice.md
 
