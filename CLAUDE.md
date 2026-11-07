@@ -18,7 +18,7 @@ This is an email studio for a small business. We use it to plan email campaigns 
 ## Studio rules
 
 - Write in plain English: short sentences, everyday words, no jargon.
-- Never send email to real people.
+- Never send email to real people. Sending through Resend is allowed only to Resend's test addresses (ending in `@resend.dev`) and to my own email address. A send guard will enforce this in the next step.
 - Ask me before deleting anything: files, folders, emails or rows in a lead list.
 
 ## The course
