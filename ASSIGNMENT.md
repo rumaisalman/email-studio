@@ -58,19 +58,19 @@ my-email-studio/
 ## Progress
 
 ### Part 1 · Plan and write
-- [ ] 1. Look before you build
-- [ ] 2. Set up your studio
-- [ ] 3. Your brand voice
-- [ ] 4. Plan the campaign
-- [ ] 5. Practice leads
-- [ ] 6. Email rule and sequence
-- [ ] 7. Fresh-eyes review
-- [ ] 8. Your own skill: personalize
+- [x] 1. Look before you build
+- [x] 2. Set up your studio
+- [x] 3. Your brand voice
+- [x] 4. Plan the campaign
+- [x] 5. Practice leads
+- [x] 6. Email rule and sequence
+- [x] 7. Fresh-eyes review
+- [x] 8. Your own skill: personalize
 
 ### Part 2 · Send safely
-- [ ] 9. Connect Resend in practice mode
-- [ ] 10. The safety guard
-- [ ] 11. Practice launch
+- [x] 9. Connect Resend in practice mode
+- [x] 10. The safety guard
+- [x] 11. Practice launch
 
 ### Part 3 · Work like a team
 - [ ] 12. Resume and fork
